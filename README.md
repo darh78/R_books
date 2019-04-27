@@ -9,3 +9,6 @@ By Garrett Grolemund & Hadley Wickham
 ## [Text Mining with R](https://www.tidytextmining.com/)
 By Julia Silge and David Robinson  
 ![Text Mining with R cover](covers/TextMiningWithR.png)
+
+## [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book)  
+By Christoph Molnar
