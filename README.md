@@ -6,9 +6,12 @@ Repository with links to **Free** R Books, available online.
 By Garrett Grolemund & Hadley Wickham  
 ![Data Science with R cover](covers/DataScienceWithR.png)
 
-## [Text Mining with R](https://www.tidytextmining.com/)
+## [Text Mining with R](https://www.tidytextmining.com)
 By Julia Silge and David Robinson  
 ![Text Mining with R cover](covers/TextMiningWithR.png)
 
 ## [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book)  
 By Christoph Molnar
+
+## [Geocomputation with R](https://geocompr.robinlovelace.net)  
+By Robin Lovelace, Jakub Nowosad and Jannes Muenchow
