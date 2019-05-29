@@ -2,11 +2,11 @@
 
 Repository with links to **Free** R Books, available online.
 
-## [Data Science with R](https://r4ds.had.co.nz)
+## [Data Science with R](https://r4ds.had.co.nz)  
 By Garrett Grolemund & Hadley Wickham  
 ![Data Science with R cover](covers/DataScienceWithR.png)
 
-## [Text Mining with R](https://www.tidytextmining.com)
+## [Text Mining with R](https://www.tidytextmining.com)  
 By Julia Silge and David Robinson  
 ![Text Mining with R cover](covers/TextMiningWithR.png)
 
@@ -17,3 +17,7 @@ By Christoph Molnar
 ## [Geocomputation with R](https://geocompr.robinlovelace.net)  
 By Robin Lovelace, Jakub Nowosad and Jannes Muenchow  
 ![Geocomputation with R cover](covers/GeoCompR.png)
+
+## [Happy Git and GitHub for the useR](https://happygitwithr.com/index.html)  
+By Jenny Bryan, the STAT 545 TAs, Jim Hester
+![Happy Git](covers/HappyGit.png)
